@@ -1,3 +1,6 @@
+![Feuerwehr-Kinder mit Trainingsgeräten](feuerkids.jpg)
+photo credits: Feuerwehr Babelsberg-Kleinglinike
+
 # Projektbeschreibung: Pressluftatmer-Attrappen für die Jugendfeuerwehr
 
 In einer fruchtbaren Zusammenarbeit zwischen der Jugendfeuerwehr Babelsberg-Klein Glienicke und der MachBar Potsdam haben wir ein innovatives Projekt ins Leben gerufen. Unser Ziel war es, kostengünstige Pressluftatmer-Attrappen für die Jugendfeuerwehr zu entwickeln, um unseren jungen Feuerwehrleuten die Möglichkeit zu bieten, realitätsnahe Übungen durchzuführen.
