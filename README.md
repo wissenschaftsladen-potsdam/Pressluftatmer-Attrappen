@@ -1,16 +1,12 @@
 # Übungs Atemschutzgerät Bauanleitung
 
-**FFW Babelsberg + Universität Potsdam + MAchBAR**
+**FFW Babelsberg + Universität Potsdam + MachBAR**
 
-**Basisanleitung | 03.04.2022**
-
-*Veröffentlicht durch die Universität Potsdam*
+**Basisanleitung | 30.09.2023**
 
 *//FoME Atemschutzgruppe\\*
 
-**13.04.2023**
-
-**Dokumentenversion: 1.3**
+**Dokumentenversion: 1.5**
 
 **Verfasser dieses Dokuments:**
 
