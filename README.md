@@ -15,23 +15,23 @@
 **Verfasser dieses Dokuments:**
 
 - Eik Malte Saathoff
-- Frider Knabe
+- Frieder Knabe
 
 **Designer des Jugenfeuerwehr Atemschutzgerätes:**
 
-- Frider Knabe
+- Frieder Knabe
 - Eik Malte Saathoff
 - Leon Oparin
-- ClEmes Prüfer
+- Clemes Prüfer
 
 **Website: [Machbar-potsdam.de](https://Machbar-potsdam.de)**
 
 **Besonderer Dank gebührt:**
 
 - Jens Heinemann FF Babelsberg Kleine Glienicke
-- Der MachBar Potsdam
+- Der MachBar-Potsdam (Wissenschaftsladen-Potsdam E.v)
 - Der Universität Potsdam, besonders Edzard Weber und Markus Busch
 
 ## Sicherheitshinweis
 
-![Sicherheitshinweis](Atemschutzgerät%20Bauplan%20Last-Dateien/image002.png)
+![Sicherheitshinweis](Atemschutzgerät%20Bauplan%20bilder/image002.png)
