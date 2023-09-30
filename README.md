@@ -10,10 +10,16 @@ Gemeinsam haben wir an diesem Projekt gearbeitet und eine Pressluftatmer-Attrapp
 
 Unsere Attrappen wiegen nur etwa 3 Kilogramm und entsprechen den Jugendschutzbestimmungen. Wir haben sie so gestaltet, dass sie leicht individuell angepasst werden können, beispielsweise durch das Hinzufügen von Gewichten. Unsere Jugendfeuerwehrmitglieder können nun realitätsnahe Übungen durchführen, die ihnen helfen, sich an einen eingeschränkten Bewegungsradius zu gewöhnen, wie es bei Einsätzen mit Atemschutzgeräten erforderlich ist.
 
+*Photo Credits: Eik Malte Saathoff*
+
 ## Erfolge und Ausblick
 
 Im Juli 2023 haben wir stolz die ersten Pressluftatmer-Attrappen präsentiert und bis jetzt insgesamt bereits 12 Geräte hergestellt. Diese ermöglichen den Jugendfeuerwehren in der Region Potsdam, effektive Übungen durchzuführen und sich besser auf reale Einsatzsituationen vorzubereiten.
 
 ## Offene Bauanleitung
 
-Unser Projekt ist ein gutes Beispiel für die erfolgreiche Zusammenarbeit zwischen Fablabs und der Feuerwehr bzw. Jugendfeuerwehr. Die Bauanleitung für unsere Pressluftatmer-Attrappen ist unter [Link] frei verfügbar, sodass Jugendfeuerwehren in der Lage sind, die Geräte nachzubauen und für ihre Übungszwecke zu nutzen.
+Unser Projekt ist ein gutes Beispiel für die erfolgreiche Zusammenarbeit zwischen Fablabs und der Feuerwehr bzw. Jugendfeuerwehr. Die Bauanleitung für unsere Pressluftatmer-Attrappen ist unter [Link zur Bauanleitung (PDF)](https://github.com/wissenschaftsladen-potsdam/Pressluftatmer-Attrappen/blob/main/Atemschutzger%C3%A4t%20Bauanleitung.pdf) frei verfügbar, sodass Jugendfeuerwehren in der Lage sind, die Geräte nachzubauen und für ihre Übungszwecke zu nutzen.
+
+## Fragen und Unterstützung
+
+Bei Fragen oder Problemen stehen wir gerne zur Verfügung. Sie können Kommentare hinterlassen oder das Forum auf Wilap.de nutzen, um Unterstützung und Ratschläge zu erhalten.
