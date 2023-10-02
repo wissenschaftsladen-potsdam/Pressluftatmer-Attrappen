@@ -1,4 +1,4 @@
-![Feuerwehr-Kinder mit Trainingsgeräten](feuerkids.jpg)
+![Feuerwehr-Kinder mit Trainingsgeräten](jff-bkg.jpg)
 photo credits: Feuerwehr Babelsberg-Kleinglinike
 
 # Projektbeschreibung: Pressluftatmer-Attrappen für die Jugendfeuerwehr
