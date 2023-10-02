@@ -15,7 +15,7 @@ Unsere Attrappen wiegen nur etwa 3 Kilogramm und entsprechen den Jugendschutzbes
 
 ## Erfolge und Ausblick
 
-Im Juli 2023 haben wir stolz die ersten Pressluftatmer-Attrappen präsentiert und bis jetzt insgesamt bereits 12 Geräte hergestellt. Diese ermöglichen den Jugendfeuerwehren in der Region Potsdam, effektive Übungen durchzuführen und sich besser auf reale Einsatzsituationen vorzubereiten.
+Im Juli 2023 haben wir stolz die ersten Pressluftatmer-Attrappen präsentiert und bis jetzt insgesamt bereits insgesammt 12 Geräte mit der Jugendfeuerwehr Babelsberg-Kleinglinike und der Jugendfeuerwehr Potsdam-Zentrum hergestellt. Diese ermöglichen den Jugendfeuerwehren in der Region Potsdam, effektive Übungen durchzuführen und sich besser auf reale Einsatzsituationen vorzubereiten.
 
 ## Offene Bauanleitung
 
